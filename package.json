@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
